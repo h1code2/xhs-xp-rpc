@@ -1,0 +1,2 @@
+rootProject.name='小红书笔记推送'
+include ':app'
